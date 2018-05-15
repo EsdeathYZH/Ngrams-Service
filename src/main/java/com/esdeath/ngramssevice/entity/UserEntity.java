@@ -73,6 +73,7 @@ public class UserEntity implements Serializable,UserDetails
         this.id = id;
     }
 
+    @Override
     public String getUsername() {
         return username;
     }
@@ -81,6 +82,7 @@ public class UserEntity implements Serializable,UserDetails
         this.username = username;
     }
 
+    @Override
     public String getPassword() {
         return password;
     }
