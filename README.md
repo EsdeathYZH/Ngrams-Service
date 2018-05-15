@@ -7,4 +7,5 @@
 #### 服务：随机生成文本
 #### URL格式：localhost:8080/?value_n={}&word_num={}&filename={}
 
-### 已为该项目配置jenkins自动化构建工具
+### 更新：
+#### 已为该项目配置jenkins自动化构建工具
